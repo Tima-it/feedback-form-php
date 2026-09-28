@@ -12,11 +12,12 @@
 - Логирование запросов и ошибок (для отладки)
 
 ## Структура
-├── index.php      # форма
-├── style.css      # стили
-├── main.js        # валидация + AJAX
-├── ajax.php       # обработчик
-└── php_errors.log # лог ошибок (создаётся автоматически)
+
+- index.php      # форма
+- style.css      # стили
+- main.js        # валидация + AJAX
+- ajax.php       # обработчик
+- php_errors.log # лог ошибок (создаётся автоматически)
 
 ## Требования
 
@@ -49,6 +50,11 @@ YOUR_SERVER_KEY_HERE = ysc2_LYLT154MEZ8z4verXDGWgK0o0Jy30XX0v82qdxX0a9c66a63
 Код тестировался на Kali Linux.
 
 Если письмо не уходит — проверь настройки почтового сервера и логи (php_errors.log, /var/log/mail.log).
+
+
+
+
+
 
 
 
